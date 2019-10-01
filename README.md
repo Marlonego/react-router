@@ -6,7 +6,7 @@ user's homepage.
 It implements the following React technologies:
 
 1. Router/Switch/Links for Task 1
-2. onChange/onClick-events for Task 2 (Advanced)
-3. Props-Drilling for Task 3 (Advanced)
+2. onChange/onClick-events, conditional rendering for Task 2 (Advanced)
+3. onClick, conditional rtyling for Task 3 (Advanced)
 
 For the actual task, please take a look at **task.pdf**.
