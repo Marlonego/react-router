@@ -1,23 +1,12 @@
-## Instructions for students:
+# About Me - Project in React
 
-### Create a React App using Router
+This project is a React web-app that is similar to a classic
+user's homepage.
 
-The user should be able to reach a main route ("/") named start, and also route for products. When the user types the wrong route they should be redirected to a 404 message saying route not found. The user should be able to return to the main route or the products route by clicking on the corresponding link.
+It implements the following React technologies:
 
--   Start the project with create react app.
+1. Router/Switch/Links for Task 1
+2. onChange/onClick-events for Task 2 (Advanced)
+3. Props-Drilling for Task 3 (Advanced)
 
--   Use react-router and switch
-
--   Here is an image for reference:
-    ![mock-up](mock-up.png)
-
-**Bonuses**
-
--   add other routes to your App
-
-### Rules
-
--   This is an individual assignment.
--   Deadline: 30 min.
--   Use **Git properly**
--   Feel free to document your code with comments.
+For the actual task, please take a look at **task.pdf**.
